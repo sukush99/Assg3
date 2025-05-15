@@ -22,11 +22,11 @@ But while Tip-Adapter is simple and effective, it doesn’t fully exploit the cr
 ### Installation
 Create a conda environment and install dependencies:
 ```bash
-git clone https://github.com/gaopengcuhk/Tip-Adapter.git
-cd Tip-Adapter
+git clone https://github.com/sukush99/Assg3.git
+cd custom_code
 
-conda create -n tip_adapter python=3.7
-conda activate tip_adapter
+conda create -n custom_code python=3.7
+conda activate custom_code
 
 pip install -r requirements.txt
 
